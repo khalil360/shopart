@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/shopart/static/css/main.0ae8b2af.css",
+    "main.js": "/shopart/static/js/main.5e9d7b59.js",
+    "static/media/background.jpg": "/shopart/static/media/background.8dc18357cb67f0fbcd91.jpg",
+    "static/media/carousel3.jpg": "/shopart/static/media/carousel3.a5843d84c033b6249165.jpg",
+    "static/media/carousel2.jpg": "/shopart/static/media/carousel2.ba7605eadb4fce18d44e.jpg",
+    "static/media/carouselImg.jpg": "/shopart/static/media/carouselImg.b0776c487d37fa59600b.jpg",
+    "static/media/bootstrap-logo.png": "/shopart/static/media/bootstrap-logo.3c4e1a5d3a149087b144.png",
+    "static/media/files.ico": "/shopart/static/media/files.eb66a49c24a3a12e41d2.ico",
+    "static/media/gear.ico": "/shopart/static/media/gear.f5c5a0156ac4805a8187.ico",
+    "static/media/orders.ico": "/shopart/static/media/orders.a5dda40cbe35405c5067.ico",
+    "index.html": "/shopart/index.html",
+    "main.0ae8b2af.css.map": "/shopart/static/css/main.0ae8b2af.css.map",
+    "main.5e9d7b59.js.map": "/shopart/static/js/main.5e9d7b59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ae8b2af.css",
+    "static/js/main.5e9d7b59.js"
+  ]
+}
